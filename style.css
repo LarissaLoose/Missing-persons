@@ -1,0 +1,54 @@
+body {
+    background-color:#bfbfbf;
+ }
+
+ .container{
+    width: 70%;
+    margin: auto;
+ }
+
+ h1 {
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 30px;
+     text-align: center;
+ }
+
+ blockquote {
+     font-family: 'Courier New', Courier, monospace ;
+     text-align: center;
+     margin: auto;
+ }
+
+ h2 {
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+     margin: 13px;
+ }
+
+ li {
+     font-family: 'Courier New', Courier, monospace;
+     margin: 5px;
+     height: 8%;
+ }
+
+ h3 {
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+     margin: 12px;
+ }
+
+ p {
+    font-family: 'Courier New', Courier, monospace;
+     margin: 11px;
+ }
+
+ form {
+     margin: 15px;
+     width: 10px;
+     height: auto;
+ }
+
+ footer {
+     text-align: center;
+     text-decoration: double;
+ }
